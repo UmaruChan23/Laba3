@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fmato/CLionProjects/Laba3_for/head.h
+
+C:/Users/fmato/CLionProjects/Laba3_for/task4.cpp
+cmath
+-
+head.h
+C:/Users/fmato/CLionProjects/Laba3_for/head.h
+
+C:/Users/fmato/CLionProjects/Laba3_for/task5.cpp
+cmath
+-
+head.h
+C:/Users/fmato/CLionProjects/Laba3_for/head.h
+

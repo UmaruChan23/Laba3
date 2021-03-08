@@ -1,0 +1,3 @@
+C:/Users/fmato/CLionProjects/Laba3_for/cmake-build-debug/CMakeFiles/Laba3_for.dir
+C:/Users/fmato/CLionProjects/Laba3_for/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fmato/CLionProjects/Laba3_for/cmake-build-debug/CMakeFiles/rebuild_cache.dir
